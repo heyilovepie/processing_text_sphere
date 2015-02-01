@@ -8,7 +8,7 @@ void setup(){
   PImage t = loadImage("ball/data/texture.jpg");
   noStroke();
   
-  sphere = new TextureSphere(new PVector(0,0,0), new PVector(200, 200, 200), 30, 30, t);
+  sphere = new TextureSphere(new PVector(0,0,0), new PVector(600, 600, 600), 30, 30, t);
 }
 void draw(){
   background(0);
