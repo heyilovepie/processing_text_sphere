@@ -1,0 +1,6 @@
+{
+  "name": "whatever",
+  "dependencies": {
+    "Processing.js": "~1.4.9"
+  }
+}
